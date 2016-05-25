@@ -1,0 +1,42 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Documents and Settings\user\Belgelerim\Visual Studio 2008\Projects\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\talatfirlar\Desktop\C#2.dönem\1.hafta\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\talatfirlar\Desktop\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.Cache
+D:\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+D:\1-Desktop (1)\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Form1.resources
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\anıl\Desktop\Dersler\İleri Görsel Programlama\Ado.Net-Sunumlar\4-c# 584_KutuphaneOtomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.Cache
